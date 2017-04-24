@@ -9,8 +9,8 @@ Curso sobre React com Redux da Webschool.
 
 2. Aplicação simples com React (sem Flux/Redux)
    1. Um pouco sobre ES6 e React
-       1. Array.map
-       2. Array.filter
+       1. Array.prototype.map
+       2. Array.prototype.filter
        3. Destructuring
        4. Rest Params
    2. JSX
