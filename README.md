@@ -11,7 +11,7 @@ Curso sobre React com Redux da Webschool.
    1. Um pouco sobre ES6 e React
        1. Array.map
        2. Array.filter
-       3. Destructor
+       3. Destructuring
        4. Rest Params
    2. JSX
        1. O que é JSX
