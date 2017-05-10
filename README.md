@@ -4,7 +4,7 @@ Curso sobre React com Redux da Webschool.
 ## Ementa (Em desenvolvimento ainda)
 
 1. Sobre o React
-   1. História sobre o React
+   1. [História sobre o React](#historia)
    2. Quem usa
 
 2. Aplicação simples com React (sem Flux/Redux)
@@ -41,3 +41,13 @@ Curso sobre React com Redux da Webschool.
    
 5. React Native
    1. Elaborar
+
+
+
+## HISTÓRIA
+
+O React é uma Biblioteca JavaScript criada pelo Facebook focada em criar interfaces de usuário complexas e que mudam constantemente.
+
+O React foi usado primeiramente de forma interna e logo depois liberado para a comunidade.
+
+A ideia principal do React é quebrar a UI em componentes, onde em sua grande maioria poderão ser reutilizados no mesmo ou em outros projetos.
